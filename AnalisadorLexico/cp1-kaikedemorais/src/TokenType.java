@@ -1,0 +1,8 @@
+public enum TokenType {
+    IDENTIFICADOR,
+    PALAVRA_RESERVADA,
+    STRING,
+    OPERADOR,
+    LITERAL_NUMERICO,
+    EOF
+}
