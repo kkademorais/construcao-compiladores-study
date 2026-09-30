@@ -1,6 +1,7 @@
 # Especificação léxica da linguagem
 Trabalho 1 de Construção de Compiladores
 Kaike de Morais Carvalho - 12421BCC051
+GitHub do repositório: https://github.com/kkademorais/construcao-compiladores-study
 
 ---
 
